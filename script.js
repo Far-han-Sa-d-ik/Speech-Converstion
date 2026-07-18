@@ -15,7 +15,8 @@ function speak() {
     let speech = new SpeechSynthesisUtterance(output.value);
 
     if (output.value === "") {
-        window.speechSynthesis.speak("Hello idiot, the box is empty.");
+        let pao = new SpeechSynthesisUtterance("Hello Idiot, The Box is empty");
+        window.speechSynthesis.speak(pao);
     }
     
     const voices = window.speechSynthesis.getVoices();
