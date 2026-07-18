@@ -1,0 +1,29 @@
+body {
+    font-family: calibri;
+}
+
+button {
+    font-size: 35px;
+    padding: 6px; 
+    border-radius: 12px; 
+    border-color: green; 
+    background-color: rgb(2, 27, 2); 
+    font-weight: bolder; 
+    color: aliceblue;
+}
+
+h1 {
+    color: antiquewhite; 
+    font-weight: bolder; 
+    font-size: 60px;
+}
+
+textarea {
+    background-color: #303030; 
+    font-size: 40px; 
+    font-weight: bold; 
+    color: azure; 
+    border-radius: 20px; 
+    border-color: greenyellow;
+}
+
