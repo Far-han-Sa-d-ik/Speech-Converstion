@@ -3,7 +3,7 @@
 A clean, minimalist web application built with vanilla JavaScript that utilizes the native Web Speech API to convert spoken words into text and read written text back aloud using a clear, system-selected female voice.
 
 ## 🚀 Live Demo
-[View Live Site](https://YOUR-GITHUB-USERNAME.github.io/YOUR-REPOSITORY-NAME/)
+[View Live Site](https://far-han-sa-d-ik.github.io/Speech-Converstion/)
 
 ## ✨ Features
 *   **Speech-to-Text:** Real-time voice transcription using the browser's native `SpeechRecognition` engine.
